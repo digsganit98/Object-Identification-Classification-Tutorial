@@ -1,0 +1,8 @@
+# CPU-friendly classification settings
+index_csv: data/processed/classification_index.csv
+model_name: mobilenet_v3_small
+pretrained: true
+num_epochs: 25
+batch_size: 16
+learning_rate: 0.0003
+image_size: 224

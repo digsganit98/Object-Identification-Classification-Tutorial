@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+data/
+*.webp
+*.jpg
+*.png
+*.pt
+*.pth
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore datasets
+rooftop-solar-panels-object-detection/
+rooftop-solar-panels-image-classification/
+
 # Distribution / packaging
 .Python
 build/

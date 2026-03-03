@@ -1,0 +1,9 @@
+# YOLOv8 CPU-friendly settings
+base_model: yolov8n.pt
+epochs: 10
+imgsz: 640
+batch: 4
+workers: 0
+patience: 10
+project_dir: artifacts/models
+run_name: det_yolov8n_cpu

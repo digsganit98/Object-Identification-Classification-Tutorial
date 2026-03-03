@@ -1,0 +1,13 @@
+{
+  "model_name": "mobilenet_v3_small_cpu",
+  "accuracy": 0.9097744360902256,
+  "f1_macro": 0.8952937311694374,
+  "best_val_f1_macro": 0.8999706163012614,
+  "num_classes": 6,
+  "num_train": 619,
+  "num_val": 133,
+  "num_test": 133,
+  "epochs": 25,
+  "elapsed_seconds": 932.38,
+  "timestamp": 1772463809
+}
